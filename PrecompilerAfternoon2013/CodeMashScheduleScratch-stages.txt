@@ -1,0 +1,15 @@
+Stages of CodeMashScheduleScratch
+
+1 - Downloads and displays sessions list
+
+2 - Copy implemented
+
+3 - Can add and delete sessions to/from schedule
+
+4 - Undo implemented
+
+5 - Document save implemented
+
+6 - Open in other apps implemented
+
+7 - iCloud save implemented (requires suitable entitlements)
